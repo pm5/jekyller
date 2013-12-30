@@ -4,7 +4,7 @@ server: true
 markdown: kramdown
 pygments: true
 permalink: /:title.html
-exclude: [shower,themes]
+#exclude: [shower,themes]
 
 default_theme: ribbon
 default_width: 792
@@ -12,11 +12,11 @@ default_lang: en
 default_body_class: list
 
 author:
-    name: Yours Truly
+    name: Pomin Wu
     # url:  http://example.com/
     company:
-        name: Famous Inc.
+        name: 台灣環境資訊協會
         # url:  http://example.com/
 
-fork_url: https://github.com/shower/shower
+fork_url: https://github.com/pm5/jekyller
 progress: true
