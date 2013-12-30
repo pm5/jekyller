@@ -30,6 +30,9 @@ style: |
         width:0.72em;
         height:0.72em;
         }
+    .hide-title h2 {
+        display: none;
+    }
 ---
 
 # Shower Presentation Engine test {#Cover}
